@@ -1,0 +1,47 @@
+# Python/Django
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.migrations/
+
+# Django media/static
+/media/
+/static/
+
+# VSCode
+.vscode/
+
+# Node/Vite/React
+node_modules/
+dist/
+build/
+.env
+.env.*
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.swp
+*.swo
+.idea/
+*.iml
+
+# Ignore database
+backend/db.sqlite3
+
+# Ignore uploads (optional, comment out if you want to keep uploaded images in git)
+backend/blog/media/uploads/

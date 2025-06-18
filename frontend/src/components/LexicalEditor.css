@@ -1,0 +1,20 @@
+.editor-container {
+  border: 1px solid #cfd8dc;
+  border-radius: 6px;
+  min-height: 120px;
+  margin-bottom: 12px;
+  background: #fff;
+}
+.editor-input {
+  min-height: 120px;
+  padding: 10px;
+  outline: none;
+  font-size: 1rem;
+  background: transparent;
+}
+.editor-placeholder {
+  color: #b0b0b0;
+  padding: 10px;
+  pointer-events: none;
+  user-select: none;
+}
