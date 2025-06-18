@@ -47,3 +47,4 @@ backend/db.sqlite3
 backend/blog/media/uploads/
 venv/
 frontend/.vite/
+venv/
