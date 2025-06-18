@@ -46,3 +46,4 @@ backend/db.sqlite3
 # Ignore uploads (optional, comment out if you want to keep uploaded images in git)
 backend/blog/media/uploads/
 venv/
+frontend/.vite/
